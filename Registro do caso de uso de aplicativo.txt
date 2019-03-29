@@ -1,0 +1,13 @@
+1- Todo USUÁRIO vai estar em um GRUPO DE ACESSO
+
+2- O controle de USUÁRIO é feito e organizado por um GRUPO DE ACESSO.
+
+3- O MONITOR apenas visualiza REGISTROS, edita LISTAS DE ACESSO e cria USUÁRIO que é regulado pela EMPRESA.
+
+4- USUÁRIO são dividios por dois tipops de GRUPOS(Administradores e Usuários padrões).
+
+5- Os GRUPOS passam por FILTROS diferentes(LISTAS DE ACESSO).
+
+6- Cada USUÁRIO do GRUPO gera um REGISTRO de navegação(log) por conteúdo e tempo que é armazenado nos REGISTROS que são gerenciados por um responsavel pela EMPRESA.
+
+7- a LIBERAÇÃO de certos ACESSOS é dada pelo PREVILÉGIO que o GRUPO definido pelo monitor.
